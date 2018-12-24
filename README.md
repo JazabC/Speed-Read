@@ -1,6 +1,6 @@
-# speedReader
+# Speed Reader
 
-This is perfect if you want to read ahead in a topic or want to skim an article online. This can help you get your work done faster and quicker!
+Need to read an article or book in a short period of time? This is perfect for such a case! It help you get your work done faster and quicker!
 
 
 Context: 
