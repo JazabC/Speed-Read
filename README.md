@@ -1,6 +1,6 @@
 # Speed Reader
 
-Need to read an article or book in a short period of time? This is perfect for such a case! It help you get your work done faster and quicker!
+Need to read an article or book in a short period of time? This is perfect for such a case! It helps you get your work done faster and quicker!
 
 
 Context: 
